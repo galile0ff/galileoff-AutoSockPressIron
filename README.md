@@ -22,7 +22,7 @@
 
 | 📁 Folder / 📄 File | 📝 Description |
 |--------------------|----------------|
-| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (controls sock printing and conveyor belt) |
+| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (controls sock printing) |
 | `codes/c_cpp`      | 🟢 C/C++ code: `conveyor_control.c` (controls conveyor belt movement) |
 | `electronics/components` | ⚡ Electronic components: motors, sensors, development boards, connectors |
 | `electronics/schematics`  | ⚡ Circuit schematics: `main_circuit.pdf`, `sensor_connections.pdf` |
