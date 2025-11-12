@@ -65,6 +65,8 @@ Please retain this README and the LICENSE when redistributing.
 
 ## ☕ Buy Me a Coffee
 
+Love Strix? Give us a ⭐ on GitHub!
+
 If you like this project and want to support its development, you can buy me a coffee!  
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=galileoff&button_colour=FF5F5F&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/galileoff)
@@ -73,5 +75,3 @@ Every coffee helps me continue improving **SockPressBot** and creating more open
 
 
 ---
-
-## 📷 Media Preview
