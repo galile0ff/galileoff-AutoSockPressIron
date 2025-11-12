@@ -13,7 +13,7 @@
 | 🎨 Fully Automated Printing Arm | Apply logos or color designs automatically |
 | ⚙️ Modular Design | Easily swap or upgrade sock molds and parts |
 | 📡 Sensors & Calibration | Optional temperature, pressure, and speed monitoring |
-| 💻 Arduino Firmware | Controls conveyor, ironing unit, and printing arm |
+| 💻 Arduino/C++ Firmware | Controls conveyor, ironing unit, and printing arm |
 | 🌐 Open-Source | Hardware, firmware, and CAD files ready for contributions |
 
 ---
