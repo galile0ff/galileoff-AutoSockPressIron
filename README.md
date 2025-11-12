@@ -20,19 +20,18 @@
 
 ## 📂 Folder Structure
 
-SockPressBot/
-│
-├── README.md # Project overview
-├── LICENSE # Apache 2.0 License
-├── .gitignore # Ignore unnecessary files
-│
-├── /Firmware # Arduino & microcontroller code
-├── /Code # C/C++ control programs, simulations, tests
-├── /Electronics # Schematics, PCB layouts, BOM
-├── /3D-Models # CAD & 3D model files
-├── /Mechanics # Assembly drawings & technical docs
-├── /Docs # Project documentation & diagrams
-└── /Media # Photos, renders, demo videos
+| Folder | Description |
+|--------|-------------|
+| `/Firmware` | Arduino & microcontroller code |
+| `/Code` | C/C++ control programs, simulations, tests |
+| `/Electronics` | Schematics, PCB layouts, BOM |
+| `/3D-Models` | CAD & 3D model files (.stl, .step, .f3d) |
+| `/Mechanics` | Assembly drawings & technical documentation |
+| `/Docs` | Project documentation & workflow diagrams |
+| `/Media` | Photos, renders, demo videos |
+| `README.md` | This file |
+| `LICENSE` | Apache 2.0 license |
+| `.gitignore` | Files/folders to ignore in Git |
 
 ---
 
@@ -60,6 +59,16 @@ You may use, modify, and distribute the project following the license terms.
 Contributions are welcome!  
 Feel free to improve **firmware**, **mechanical design**, **electronics**, or **documentation**.  
 Please retain this README and the LICENSE when redistributing.
+
+---
+
+## ☕ Buy Me a Coffee
+
+If you like this project and want to support its development, you can buy me a coffee!  
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+
+Every coffee helps me continue improving **SockPressBot** and creating more open-source hardware and firmware projects! 🙏
 
 ---
 
