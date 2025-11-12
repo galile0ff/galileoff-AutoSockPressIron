@@ -20,18 +20,19 @@
 
 ## 📂 Folder Structure
 
-| Folder | Description |
-|--------|-------------|
-| `/Firmware` | Arduino & microcontroller code |
-| `/Code` | C/C++ control programs, simulations, tests |
-| `/Electronics` | Schematics, PCB layouts, BOM |
-| `/3D-Models` | CAD & 3D model files (.stl, .step, .f3d) |
-| `/Mechanics` | Assembly drawings & technical documentation |
-| `/Docs` | Project documentation & workflow diagrams |
-| `/Media` | Photos, renders, demo videos |
-| `README.md` | This file |
-| `LICENSE` | Apache 2.0 license |
-| `.gitignore` | Files/folders to ignore in Git |
+| 📁 Folder / 📄 File | 📝 Description |
+|--------------------|----------------|
+| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (çorap baskı ve bant kontrolü) |
+| `codes/c_cpp`      | 🟢 C/C++ code: `conveyor_control.c` (konveyör bant hareket kontrolü) |
+| `electronics/components` | ⚡ Elektronik bileşenler: motorlar, sensörler, geliştirme kartları, bağlantı elemanları |
+| `electronics/schematics`  | ⚡ Devre şemaları: `main_circuit.pdf`, `sensor_connections.pdf` |
+| `models`           | 🛠 3D model dosyaları (.obj) |
+| `docs/images`      | 📷 Prototip fotoğrafları, demo görselleri |
+| `docs/manuals`     | 📄 Montaj kılavuzu ve diğer dokümanlar (`assembly_guide.pdf`) |
+| `parts_list`       | 📋 Elektronik ve mekanik parçaların listesi (`electronic_parts.md`, `mechanical_parts.md`) |
+| `README.md`        | 📘 Bu dosya: proje tanıtımı ve klasör yapısı |
+| `LICENSE`          | 📜 Apache 2.0 lisansı |
+| `.gitignore`       | 🚫 Git tarafından takip edilmeyecek dosya ve klasörler |
 
 ---
 
