@@ -22,17 +22,17 @@
 
 | 📁 Folder / 📄 File | 📝 Description |
 |--------------------|----------------|
-| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (çorap baskı ve bant kontrolü) |
-| `codes/c_cpp`      | 🟢 C/C++ code: `conveyor_control.c` (konveyör bant hareket kontrolü) |
-| `electronics/components` | ⚡ Elektronik bileşenler: motorlar, sensörler, geliştirme kartları, bağlantı elemanları |
-| `electronics/schematics`  | ⚡ Devre şemaları: `main_circuit.pdf`, `sensor_connections.pdf` |
-| `models`           | 🛠 3D model dosyaları (.obj) |
-| `docs/images`      | 📷 Prototip fotoğrafları, demo görselleri |
-| `docs/manuals`     | 📄 Montaj kılavuzu ve diğer dokümanlar (`assembly_guide.pdf`) |
-| `parts_list`       | 📋 Elektronik ve mekanik parçaların listesi (`electronic_parts.md`, `mechanical_parts.md`) |
-| `README.md`        | 📘 Bu dosya: proje tanıtımı ve klasör yapısı |
-| `LICENSE`          | 📜 Apache 2.0 lisansı |
-| `.gitignore`       | 🚫 Git tarafından takip edilmeyecek dosya ve klasörler |
+| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (controls sock printing and conveyor belt) |
+| `codes/c_cpp`      | 🟢 C/C++ code: `conveyor_control.c` (controls conveyor belt movement) |
+| `electronics/components` | ⚡ Electronic components: motors, sensors, development boards, connectors |
+| `electronics/schematics`  | ⚡ Circuit schematics: `main_circuit.pdf`, `sensor_connections.pdf` |
+| `models`           | 🛠 3D model files (.obj) |
+| `docs/images`      | 📷 Prototype photos, demo images |
+| `docs/manuals`     | 📄 Assembly guide and other documentation (`assembly_guide.pdf`) |
+| `parts_list`       | 📋 List of electronic and mechanical parts (`electronic_parts.md`, `mechanical_parts.md`) |
+| `README.md`        | 📘 This file: project overview and folder structure |
+| `LICENSE`          | 📜 Apache 2.0 license |
+| `.gitignore`       | 🚫 Files and folders ignored by Git |
 
 ---
 
