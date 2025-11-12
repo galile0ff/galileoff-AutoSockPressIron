@@ -20,18 +20,19 @@
 
 ## 📂 Folder Structure
 
-| Folder | Description |
-|--------|-------------|
-| `/Firmware` | Arduino & microcontroller code |
-| `/Code` | C/C++ control programs, simulations, tests |
-| `/Electronics` | Schematics, PCB layouts, BOM |
-| `/3D-Models` | CAD & 3D model files (.stl, .step, .f3d) |
-| `/Mechanics` | Assembly drawings & technical documentation |
-| `/Docs` | Project documentation & workflow diagrams |
-| `/Media` | Photos, renders, demo videos |
-| `README.md` | This file |
-| `LICENSE` | Apache 2.0 license |
-| `.gitignore` | Files/folders to ignore in Git |
+| 📁 Folder / 📄 File | 📝 Description |
+|--------------------|----------------|
+| `codes/arduino`    | 🟢 Arduino sketch: `sock_printer.pde` (controls sock printing and conveyor belt) |
+| `codes/c_cpp`      | 🟢 C/C++ code: `conveyor_control.c` (controls conveyor belt movement) |
+| `electronics/components` | ⚡ Electronic components: motors, sensors, development boards, connectors |
+| `electronics/schematics`  | ⚡ Circuit schematics: `main_circuit.pdf`, `sensor_connections.pdf` |
+| `models`           | 🛠 3D model files (.obj) |
+| `docs/images`      | 📷 Prototype photos, demo images |
+| `docs/manuals`     | 📄 Assembly guide and other documentation (`assembly_guide.pdf`) |
+| `parts_list`       | 📋 List of electronic and mechanical parts (`electronic_parts.md`, `mechanical_parts.md`) |
+| `README.md`        | 📘 This file: project overview and folder structure |
+| `LICENSE`          | 📜 Apache 2.0 license |
+| `.gitignore`       | 🚫 Files and folders ignored by Git |
 
 ---
 
