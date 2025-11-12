@@ -66,9 +66,10 @@ Please retain this README and the LICENSE when redistributing.
 
 If you like this project and want to support its development, you can buy me a coffee!  
 
-[![Buy Me a Coffee](<a href="https://www.buymeacoffee.com/yaizm0587"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yaizm0587&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yaizm0587&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/yaizm0587)
 
 Every coffee helps me continue improving **SockPressBot** and creating more open-source hardware and firmware projects! 🙏
+
 
 ---
 
