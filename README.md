@@ -1,4 +1,4 @@
-# SockPressBot 🧦🔥
+# Auto Sock Press Iron 🧦🔥
 
 > Open-source sock processing machine with **semi-automatic ironing** and **fully automated color printing**, all on a **motorized conveyor belt**.  
 
@@ -65,7 +65,7 @@ Please retain this README and the LICENSE when redistributing.
 
 ## ☕ Buy Me a Coffee
 
-Love Strix? Give us a ⭐ on GitHub!
+Love this machine? Give us a ⭐ on GitHub!
 
 If you like this project and want to support its development, you can buy me a coffee!  
 
